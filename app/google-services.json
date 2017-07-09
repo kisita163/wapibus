@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "272477766129",
+    "firebase_url": "https://wapibus.firebaseio.com",
+    "project_id": "wapibus",
+    "storage_bucket": "wapibus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272477766129:android:c5ff852c1b43072d",
+        "android_client_info": {
+          "package_name": "com.kisita.wapibus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272477766129-5jtdsbbuibgtrau5k63fif6t4kq0usf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP6cI7Y2uFIWVzQW1cJW3N2jsgy8aT5VM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
